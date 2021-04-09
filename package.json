@@ -3,6 +3,8 @@
     "@openzeppelin/contracts": "^4.0.0"
   },
   "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "chai": "^4.3.4",
     "ganache-cli": "^6.12.2",
     "truffle": "^5.1.65"
   }
